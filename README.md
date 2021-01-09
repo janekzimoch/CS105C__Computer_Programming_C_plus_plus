@@ -23,3 +23,7 @@ This assignment will cover simple I/O and writing functions.
 3. **C++ STL containers** - using Standard Template Liblary container classes and other basic C++ constructs.
 4. **C++ streams** - You will implement a library of streams in C++. To make our library more usable, the stream class should be polymorphic: a user must be able to create a stream of any type. The assignment will help you get used to C++ templates.
 5. **Final Project - Game** - implement a game similar to Atari breakout game.
+
+
+
+### Note: I lost my code... somewhere. So this repository contains only assignment pdf documents with the exercises i've done for this module.
